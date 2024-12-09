@@ -18,10 +18,7 @@ Hello there! I'm **Naser**, a passionate developer and tech enthusiast dedicated
    - **Technologies Used**: Python, Scikit-learn, Flask.
    - **Repository**: [Spam Detection System](https://github.com/naser084/spam-detection)
 
-### 2. **Personal Portfolio Website**
-   - **Description**: A responsive portfolio showcasing my projects and skills. 🌐💼
-   - **Technologies Used**: HTML, CSS, JavaScript.
-   - **Repository**: [Portfolio Website](https://github.com/naser084/portfolio)
+
 
 ### 3. **Data Visualization Dashboard**
    - **Description**: Interactive dashboard for visualizing data insights using Plotly and Dash. 📊📈
