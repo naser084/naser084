@@ -4,7 +4,7 @@ Hello there! I'm **Naser**, a passionate developer and tech enthusiast dedicated
 
 ## 🔧 Technologies I Love
 
-- **Programming Languages**: Python 🐍, JavaScript 🌐, Java ☕
+- **Programming Languages**: Python 🐍, Sql
 - **Web Development**: HTML5 🏗️, CSS3 🎨, React.js ⚛️, Node.js 🚀
 - **Data Science**: Pandas 📊, NumPy 🔢, Scikit-learn 📈
 - **Machine Learning**: TensorFlow 🤖, Keras 🧠
