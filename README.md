@@ -36,9 +36,9 @@ I'm constantly learning and evolving in the tech space! Currently diving into:
 
 I'm always open to collaboration and discussions about technology. Feel free to reach out!
 
-- 📧 Email: naser@example.com
+- 📧 Email: mohammednaseruddin987@gmail.com
 - 🐦 Twitter: [@naser084](https://twitter.com/naser084)
-- 💼 LinkedIn: [Naser's LinkedIn](https://linkedin.com/in/naser084)
+- 💼 LinkedIn: [Naser's LinkedIn] www.linkedin.com/in/mohammed-naser-186285329
 
 ## 🚀 Join Me on This Journey!
 
