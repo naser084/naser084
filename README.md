@@ -5,7 +5,6 @@ Hello there! I'm **Naser**, a passionate developer and tech enthusiast dedicated
 ## 🔧 Technologies I Love
 
 - **Programming Languages**: Python 🐍, Sql
-- **Web Development**: HTML5 🏗️, CSS3 🎨, React.js ⚛️, Node.js 🚀
 - **Data Science**: Pandas 📊, NumPy 🔢, Scikit-learn 📈
 - **Machine Learning**: TensorFlow 🤖, Keras 🧠
 - **Databases**: MySQL 🗄️, MongoDB 🍃
@@ -20,7 +19,7 @@ Hello there! I'm **Naser**, a passionate developer and tech enthusiast dedicated
 
 
 
-### 3. **Data Visualization Dashboard**
+### 2. **Data Visualization Dashboard**
    - **Description**: Interactive dashboard for visualizing data insights using Plotly and Dash. 📊📈
    - **Technologies Used**: Python, Dash, Plotly.
    - **Repository**: [Data Visualization](https://github.com/naser084/data-visualization)
@@ -30,14 +29,13 @@ Hello there! I'm **Naser**, a passionate developer and tech enthusiast dedicated
 I'm constantly learning and evolving in the tech space! Currently diving into:
 - Advanced Machine Learning Techniques 🧠
 - Cloud Architecture ☁️
-- Full Stack Development 🌐
+- Data science 🌐
 
 ## 🤝 Let's Connect!
 
 I'm always open to collaboration and discussions about technology. Feel free to reach out!
 
 - 📧 Email: mohammednaseruddin987@gmail.com
-- 🐦 Twitter: [@naser084](https://twitter.com/naser084)
 - 💼 LinkedIn: [Naser's LinkedIn] www.linkedin.com/in/mohammed-naser-186285329
 
 ## 🚀 Join Me on This Journey!
